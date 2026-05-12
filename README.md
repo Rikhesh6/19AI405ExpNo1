@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: K S Vinay Suhirthan </h3>
-<h3>Register Number:212224230305</h3>
+<h3>Name: Shri Lekshman Rikhesh R </h3>
+<h3>Register Number:212224060249</h3>
 
 
 <h3>AIM:</h3>
